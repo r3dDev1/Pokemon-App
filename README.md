@@ -1,1 +1,2 @@
 This is a simple pokemon application that was created to improve my understanding of react props as well as components.
+The application displays two hands of pokemons and calculates the overall points of each hand and deciees which hand is the winning hand. The points that the hand calculates are from each pokemon and they are assined to one of two hands randomly. As a result, the winning hand hanges randomly.
